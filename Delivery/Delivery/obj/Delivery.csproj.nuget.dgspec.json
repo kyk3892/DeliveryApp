@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\김윤희\\source\\repos\\kyk3892\\DeliveryApp\\Delivery\\Delivery\\Delivery.csproj": {}
+    "C:\\Users\\user\\Source\\Repos\\kyk3892\\DeliveryApp\\Delivery\\Delivery\\Delivery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\김윤희\\source\\repos\\kyk3892\\DeliveryApp\\Delivery\\Delivery\\Delivery.csproj": {
+    "C:\\Users\\user\\Source\\Repos\\kyk3892\\DeliveryApp\\Delivery\\Delivery\\Delivery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\김윤희\\source\\repos\\kyk3892\\DeliveryApp\\Delivery\\Delivery\\Delivery.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\kyk3892\\DeliveryApp\\Delivery\\Delivery\\Delivery.csproj",
         "projectName": "Delivery",
-        "projectPath": "C:\\Users\\김윤희\\source\\repos\\kyk3892\\DeliveryApp\\Delivery\\Delivery\\Delivery.csproj",
-        "packagesPath": "C:\\Users\\김윤희\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\김윤희\\source\\repos\\kyk3892\\DeliveryApp\\Delivery\\Delivery\\obj\\",
+        "projectPath": "C:\\Users\\user\\Source\\Repos\\kyk3892\\DeliveryApp\\Delivery\\Delivery\\Delivery.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Source\\Repos\\kyk3892\\DeliveryApp\\Delivery\\Delivery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\김윤희\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
